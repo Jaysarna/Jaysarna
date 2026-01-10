@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Frappe Framework with some AI tools (the fancy word)
 - 🌱 I’m currently learning Automation of Development , System Architecture 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on AI Model Finetuning
 - 🤔 I’m looking for help with Frontend tools like React or Bun or Dino (if any body use it)
 - 💬 Ask me about : Anything literally anything
 - ⚡ Fun fact: Europe is not an continent but new-zealand is
