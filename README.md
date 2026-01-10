@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI Model Finetuning
 - 🤔 I’m looking for help with Frontend tools like React or Bun or Dino (if any body use it)
 - 💬 Ask me about : Anything literally anything
-- ⚡ Fun fact: Europe is not an continent but new-zealand is
+- ⚡ Fun fact: Europe is not a continent but new-zealand is
 <!--
 **Jaysarna/Jaysarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
