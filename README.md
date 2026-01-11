@@ -1,22 +1,40 @@
-## Hi there 👋 Jay Sarna
+# Hi there 👋 I’m Jay Sarna
 
-- 🔭 I’m currently working on Frappe Framework with some AI tools (the fancy word)
-- 🌱 I’m currently learning Automation of Development , System Architecture 
-- 👯 I’m looking to collaborate on AI Model Finetuning
-- 🤔 I’m looking for help with Frontend tools like React or Bun or Dino (if any body use it)
-- 💬 Ask me about : Anything literally anything
-- ⚡ Fun fact: Europe is not a continent but new-zealand is
-<!--
-**Jaysarna/Jaysarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scalable backend systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🔭 Currently working on **ERPNext / Frappe Framework** with practical use of **AI-assisted tools**
+- 🌱 Learning **Development Automation** and **System Architecture**
+- 🧠 Strong focus on backend ownership, workflows, permissions, and business logic
+- 🏗️ Experience delivering production-grade ERP systems across multiple domains
+
+---
+
+## 🤝 Collaboration
+
+- 👯 Open to collaborating on **AI model fine-tuning** and backend-heavy platforms
+- 🤔 Looking to learn and get help with **frontend ecosystems** like React, Bun, or Deno
+- 💬 Ask me about **ERPNext, Frappe, backend systems, automation, or anything really**
+
+---
+
+## 🧰 Tech Stack
+
+- **Backend:** Python, Frappe Framework, ERPNext
+- **Databases:** PostgreSQL, MariaDB
+- **APIs:** REST, third-party integrations
+- **Other:** Docker, role-based access control, workflow automation
+
+---
+
+## ⚡ Fun Fact
+
+Europe is *not* a continent, but **New Zealand is** 🌍
+
+---
+
+📫 **Connect with me:**  
+- LinkedIn: https://www.linkedin.com/in/jaysarna/
