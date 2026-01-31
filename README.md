@@ -24,6 +24,7 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 ## 🧰 Tech Stack
 
 - **Backend:** Python, Frappe Framework, ERPNext
+- **Frontend:** TypeScript,JavaScript
 - **Databases:** PostgreSQL, MariaDB
 - **APIs:** REST, third-party integrations
 - **Other:** Docker, role-based access control, workflow automation
