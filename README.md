@@ -59,6 +59,7 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 <!--
 
 ## 🏆 GitHub Trophies
