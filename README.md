@@ -54,19 +54,6 @@ I work primarily on backend-heavy products where business logic, reliability, an
 
 ---
 
-## 🚧 Featured Work
-
-### [weather_mcp](https://github.com/Jaysarna/weather_mcp)
-MCP-integrated weather utility focused on practical tool connectivity and clean TypeScript implementation.
-
-### [support_agent](https://github.com/Jaysarna/support_agent)
-Support-oriented ERPNext assistant built with Python and Qwen API integration for operational and workflow-heavy use cases.
-
-### [zoo_guide_agent](https://github.com/Jaysarna/zoo_guide_agent)
-Conversational Python agent project showing applied AI interaction design, structured behavior, and prompt-driven guidance.
-
----
-
 ## 📈 Contribution Metrics
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaysarna&theme=dark&hide_border=false)
