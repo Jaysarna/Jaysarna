@@ -73,8 +73,3 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 - 💼 LinkedIn: https://www.linkedin.com/in/Jaysarna/
 - 📧 Email: sarnajay@gmail.com
 
----
-
-## ⚡ Fun Fact
-
-Europe is *not* a continent, but **New Zealand is** 🌍
