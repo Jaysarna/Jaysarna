@@ -1,23 +1,26 @@
 # 👋 Hi, I'm Jay Sarna
 
-Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scalable backend systems**.
+**ERPNext / Frappe Engineer** building scalable backend systems, workflows, permissions, and automation.
+
+I work primarily on backend-heavy products where business logic, reliability, and system ownership matter more than buzzwords.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work On
 
-- 🔭 Working on **ERPNext / Frappe Framework** with AI-assisted tooling  
-- 🌱 Learning **Development Automation** and **System Architecture**  
-- 🧠 Strong focus on backend ownership, workflows, permissions, and business logic  
-- 🏗️ Delivered production-grade ERP systems across multiple domains  
+- Building **ERPNext / Frappe** systems for real business operations
+- Designing **workflows, permissions, automation, and backend logic**
+- Developing **AI-assisted tooling** for support, operations, and developer workflows
+- Exploring **system architecture, automation, and modern runtime ecosystems**
 
 ---
 
-## 🤝 Collaboration
+## 🧩 Core Strengths
 
-- 👯 Open to collaborating on **AI model fine-tuning** and backend-heavy platforms  
-- 🤔 Currently exploring **frontend ecosystems** (React, Bun, Deno)  
-- 💬 Ask me about **ERPNext, Frappe, backend systems, or automation**
+- **Backend ownership** — APIs, business rules, data flow, integrations
+- **ERP architecture** — workflows, approval chains, permissions, role-based behavior
+- **Automation mindset** — reduce repetitive work, improve operational reliability
+- **Production focus** — practical systems built to be used, not just demoed
 
 ---
 
@@ -29,7 +32,7 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🎨 Frontend
+### 🎨 Frontend (Working Knowledge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,13 +54,18 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 Contribution Metrics
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaysarna&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=Jaysarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Jaysarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaysarna&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaysarna&theme=github_dark&utcOffset=0)
+
 <!--
 ---
 
@@ -65,6 +73,18 @@ Backend & ERP Platform Engineer focused on **ERPNext, Frappe Framework, and scal
 
 ![](https://github-profile-trophy.vercel.app/?username=Jaysarna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+- **ERPNext / Frappe** engineering
+- **backend-heavy platforms**
+- **automation workflows**
+- **AI-assisted internal tools**
+
+Ask me about **ERPNext, Frappe, backend systems, workflows, permissions, or automation**.
 
 ---
 
